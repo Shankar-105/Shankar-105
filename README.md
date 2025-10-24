@@ -2,7 +2,7 @@
 
  I'm a 2nd-year 🎓 Computer Science Engineering student at **ANITS, Visakhapatnam, Andhra Pradesh**  
  Passionate about **Data Structures & Algorithms**, **Core CS**, and building projects on the concepts i have learned.
- Currently working on an **Interactive DSA Console Simulator Project**.   
+ Currently working on an **Interactive DSA Console Simulator Project** and simultaneously trying to learn **backend development**.   
  Trying to Learn daily by God's Grace. 
  
 ---

@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mukka-bhavani-shankar-3bb264371/" target="_blank">
+  <a href="https://www.linkedin.com/in/shankar-m-3bb264371/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn">
   </a>
 </p>

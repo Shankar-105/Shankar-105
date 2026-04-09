@@ -1,29 +1,36 @@
 <h1 align="center">Hi, I'm Shankar</h1>
 
 <p align="center">
-  <b>Student | Explorer | Coder</b>
+  <b>Backend Engineer in progress | Python, Go, FastAPI, Systems</b>
 </p>
 
 <p align="center">
-  📍  CSE undergrad at <b>ANITS, Visakhapatnam</b><br>
-  🎯  Trying to Build cool stuff while learning<br>
-  🚀  Exploring the computer science world<br>
+  CSE undergrad at <b>ANITS, Visakhapatnam</b><br>
+  Building production-style backend systems, APIs, and scalable services<br>
+  Focused on backend engineering, distributed systems, and developer tooling
 </p>
 
 ---
 
 <p align="center">
-  <strong>
-  Check out my pinned projects below & light 🩵 them up with a star 💫 motivates a student like me alot!</strong><br>
- <strong> Active in collaborative environments and always open to contributions and new ideas.Feel free to connect on LinkedIn or send an Email to coordinate!</strong>
+  <strong>What I work on</strong><br>
+  REST APIs, authentication, real-time systems, caching, CI/CD, Docker, and cloud deployment.
 </p>
 
 <p align="center">
+  <strong>GitHub footprint:</strong> 362+ cumulative stars across public repositories
+</p>
+
+<p align="center">
+  <a href="https://cccyg8ih8bumvcz1.public.blob.vercel-storage.com/resume_29326.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge" alt="Resume">
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/shankar-m-3bb264371/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
   </a>
 </p>
 
 <p align="center">
-  <em>“Be Consistent in What You Do.”</em>
+  <em>Consistency compounds. I build every week.</em>
 </p>

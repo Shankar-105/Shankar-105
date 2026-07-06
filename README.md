@@ -2,8 +2,6 @@
 
 <p align="center">
   📍 CSE undergrad at <b>ANITS, Visakhapatnam</b><br>
-  🚀 Exploring the world of Computer Science<br>
-  🛠️ Focused on building reliable, scalable, and real-world systems
 </p>
 
 ---
@@ -18,12 +16,11 @@
 </p>
 
 <p align="center">
-  🧠 Problem solving on LeetCode with strong focus on DSA and implementation thinking
+  🧠 Problem solving on LeetCode with strong focus on DSA and algorithms.
 </p>
 
 <p align="center">
-  Please check my pinned repos and drop a star 🌟<br>
-  It really motivates me to keep building and sharing.
+  Do check my pinned repos and drop a star 🌟<br>
 </p>
 
 ---

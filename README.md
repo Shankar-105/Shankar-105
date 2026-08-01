@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  ⭐ <b>400+ cumulative stars</b> across public repositories
+  ⭐ <b>500+ cumulative stars</b> across public repositories
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 ---
 
 <p align="center">
-  <a href="https://bitter-sunset-68b4.shankarbhavani862.workers.dev/Bhavani_Shankar_Resume_23526.pdf" target="_blank">
+  <a href="https://bitter-sunset-68b4.shankarbhavani862.workers.dev/Bhavani_Shankar_Mukka_29726.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-PDF-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
   </a>
   <a href="https://www.linkedin.com/in/shankar-m-3bb264371/" target="_blank">

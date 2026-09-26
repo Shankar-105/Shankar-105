@@ -1,20 +1,18 @@
 <h1 align="center">Heyy, I'm <a href="https://www.linkedin.com/in/shankar-m-3bb264371/"><code>Shankar</code></a> 👋</h1>
 
 <p align="center">
-  CSE undergrad at <b><a href="https://anits.org/">ANITS</a>, Visakhapatnam</b> 🇮🇳
+  CS at <b><a href="https://anits.org/"><code>ANITS</code></a>, Visakhapatnam</b> 🇮🇳
 </p>
 
-I'm a backend-focused student who likes building things around APIs, databases, and distributed systems. Basically, I enjoy finding out what happens after you hit <code>send</code> on a request.
+I'm a backend-focused student who likes building things around APIs, databases, and distributed systems.
 
 **About me**
 
-- 🛠️ My main focus: **Backend • System Design • DevOps • Cloud • Databases**
-- ⚙️ I like building async APIs, microservices, real-time systems, and backend infrastructure.
-- 🧠 Solving DSA on [LeetCode](https://leetcode.com/u/lc-Shankar/) and slowly getting into competitive programming.
-- 🌱 Currently going deeper into **Go, distributed systems, and backend architecture**.
-- ☕ Still a student, so sometimes the code works before I fully understand why.
+- 🛠️ main focus: **Backend • System Design • DevOps • Cloud • Databases**
+- ⚙️ I like building async APIs, distrubuted systems, and backend infrastructure at scale.
+- trying to get good at data structures <code>[LeetCode](https://leetcode.com/u/lc-Shankar/)</code> and slowly getting into competitive programming.
 
-**Tech I work with**
+**Few Tech Stack that, i currently work with**
 
 <code><img height="22" src="https://cdn.simpleicons.org/python" alt="Python"></code>
 <code><img height="22" src="https://cdn.simpleicons.org/go" alt="Go"></code>
@@ -25,31 +23,24 @@ I'm a backend-focused student who likes building things around APIs, databases, 
 <code><img height="22" src="https://cdn.simpleicons.org/docker" alt="Docker"></code>
 <code><img height="22" src="https://cdn.simpleicons.org/rabbitmq" alt="RabbitMQ"></code>
 <code><img height="22" src="https://cdn.simpleicons.org/grafana" alt="Grafana"></code>
-<code><img height="22" src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure"></code>
 
-### Selected backend work
+### Backend work
 
-**[Social Media API](https://github.com/Shankar-105/Social-Media-Api)**
+**<code>[Social Media API](https://github.com/Shankar-105/Social-Media-Api)</code>**
 
-The main beast in my backend repo list. A fully async social media backend with **60+ REST endpoints**, real-time chat, Redis caching, RabbitMQ + Celery background jobs, observability, Azure deployment, and benchmark/load-testing work. Built to understand what a backend looks like when you stop treating the database and request path as one giant function.
+The main beast in my backend repo list. A fully async social media backend with **60+ REST endpoints**, real-time chat, Redis caching, RabbitMQ + Celery background jobs, observability, Azure deployment, and benchmark/load-testing work and a lot more.
 
-**[minicorn](https://github.com/Shankar-105/minicorn)**
+**<code>[minicorn](https://github.com/Shankar-105/minicorn)</code>**
 
-A lightweight WSGI/ASGI development server built to understand a little more of what happens underneath Flask and FastAPI — including async handling, WebSockets, reloads, and a stdlib-first core.
+A lightweight WSGI/ASGI development server built to understand a little more of what happens underneath of python web servers/frameworks — including async handling, WebSockets, reloads, and a stdlib-first core.
 
-**[LG-CURSOR](https://github.com/Shankar-105/LG-CURSOR)**
+**<code>[LG-CURSOR](https://github.com/Shankar-105/LG-CURSOR)</code>**
 
-A small networking hobby project for controlling an LG WebOS TV over the local network using **UPnP discovery and WebSockets**. Basically, I got curious about making my laptop talk to my TV, so I made it happen.
+A small networking hobby project for controlling an LG WebOS TV over the local network using **UPnP discovery and WebSockets**. Basically, I got curious about making my laptop talk to my LG TV, so I made it happen.
 
-**[Golang — Backend Concurrency Learning Path](https://github.com/Shankar-105/Golang)**
+**<code>[Golang — Backend Concurrency Learning Path](https://github.com/Shankar-105/Golang)</code>**
 
 Want to learn Go from scratch without treating it like a random syntax tutorial? This repo goes through the main Go topics and compares useful concurrency ideas with **Python asyncio** where it helps.
-
-### A few things I'm learning
-
-- Distributed systems, service-to-service communication, and system design
-- Go for backend concurrency and infrastructure work
-- Better testing, observability, deployment, and cloud practices
 
 <p align="center">
   <a href="https://bitter-sunset-68b4.shankarbhavani862.workers.dev/Bhavani_Shankar_Mukka_29726.pdf">
@@ -61,5 +52,6 @@ Want to learn Go from scratch without treating it like a random syntax tutorial?
 </p>
 
 <p align="center">
-  <em>Still learning. Still building. Still finding bugs I was very sure I had fixed.</em>
+  <em>Be consistent in what you do, and you will do it.
+</em>
 </p>

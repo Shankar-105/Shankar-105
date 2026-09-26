@@ -1,6 +1,4 @@
-<p align="center">
-  <h1 align="center">Heyy, I'm Shankar 👋</h1>
-</p>
+<h1 align="center">Heyy, I'm <code>Shankar</code> 👋</h1>
 
 <p align="center">
   CSE undergrad at <b>ANITS, Visakhapatnam</b> 🇮🇳
@@ -11,7 +9,7 @@ I'm a backend-focused student who likes building things around APIs, databases, 
 **About me**
 
 - 🛠️ My main focus: **Backend • System Design • DevOps • Cloud • Databases**
-- ⚙️ I enjoy building async APIs, microservices, real-time systems, and backend infrastructure.
+- ⚙️ I like building async APIs, microservices, real-time systems, and backend infrastructure.
 - 🧠 Solving DSA on [LeetCode](https://leetcode.com/u/lc-Shankar/) and slowly getting into competitive programming.
 - 🌱 Currently going deeper into **Go, distributed systems, and backend architecture**.
 - ☕ Still a student, so sometimes the code works before I fully understand why.
@@ -21,28 +19,31 @@ I'm a backend-focused student who likes building things around APIs, databases, 
 <code><img height="22" src="https://cdn.simpleicons.org/python" alt="Python"></code>
 <code><img height="22" src="https://cdn.simpleicons.org/go" alt="Go"></code>
 <code><img height="22" src="https://cdn.simpleicons.org/fastapi" alt="FastAPI"></code>
+<code><img height="22" src="https://cdn.simpleicons.org/nextdotjs" alt="Next.js"></code>
 <code><img height="22" src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL"></code>
 <code><img height="22" src="https://cdn.simpleicons.org/redis" alt="Redis"></code>
 <code><img height="22" src="https://cdn.simpleicons.org/docker" alt="Docker"></code>
-<code><img height="22" src="https://cdn.simpleicons.org/grpc" alt="gRPC"></code>
 <code><img height="22" src="https://cdn.simpleicons.org/rabbitmq" alt="RabbitMQ"></code>
-<code><img height="22" src="https://cdn.simpleicons.org/azure" alt="Azure"></code>
+<code><img height="22" src="https://cdn.simpleicons.org/grafana" alt="Grafana"></code>
+<code><img height="22" src="https://cdn.simpleicons.org/microsoftazure" alt="Azure"></code>
 
 ### Selected backend work
 
-<a href="https://github.com/Shankar-105/Social-Media-Api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shankar-105&repo=Social-Media-Api&theme=default&hide_border=true" />
-</a>
-<a href="https://github.com/Shankar-105/finance-system-backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shankar-105&repo=finance-system-backend&theme=default&hide_border=true" />
-</a>
+**[Social Media API](https://github.com/Shankar-105/Social-Media-Api)**
 
-<a href="https://github.com/Shankar-105/microservices-architecture">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shankar-105&repo=microservices-architecture&theme=default&hide_border=true" />
-</a>
-<a href="https://github.com/Shankar-105/minicorn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shankar-105&repo=minicorn&theme=default&hide_border=true" />
-</a>
+The main beast in my backend repo list. A fully async social media backend with **60+ REST endpoints**, real-time chat, Redis caching, RabbitMQ + Celery background jobs, observability, Azure deployment, and benchmark/load-testing work. Built to understand what a backend looks like when you stop treating the database and request path as one giant function.
+
+**[minicorn](https://github.com/Shankar-105/minicorn)**
+
+A lightweight WSGI/ASGI development server built to understand a little more of what happens underneath Flask and FastAPI — including async handling, WebSockets, reloads, and a stdlib-first core.
+
+**[LG-CURSOR](https://github.com/Shankar-105/LG-CURSOR)**
+
+A small networking hobby project for controlling an LG WebOS TV over the local network using **UPnP discovery and WebSockets**. Basically, I got curious about making my laptop talk to my TV, so I made it happen.
+
+**[Golang — Backend Concurrency Learning Path](https://github.com/Shankar-105/Golang)**
+
+Want to learn Go from scratch without treating it like a random syntax tutorial? This repo goes through the main Go topics and compares useful concurrency ideas with **Python asyncio** where it helps.
 
 ### A few things I'm learning
 

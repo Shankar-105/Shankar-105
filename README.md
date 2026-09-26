@@ -1,7 +1,7 @@
-<h1 align="center">Heyy, I'm <code>Shankar</code> 👋</h1>
+<h1 align="center">Heyy, I'm <a href="https://www.linkedin.com/in/shankar-m-3bb264371/"><code>Shankar</code></a> 👋</h1>
 
 <p align="center">
-  CSE undergrad at <b>ANITS, Visakhapatnam</b> 🇮🇳
+  CSE undergrad at <b><a href="https://anits.org/">ANITS</a>, Visakhapatnam</b> 🇮🇳
 </p>
 
 I'm a backend-focused student who likes building things around APIs, databases, and distributed systems. Basically, I enjoy finding out what happens after you hit <code>send</code> on a request.
@@ -25,7 +25,7 @@ I'm a backend-focused student who likes building things around APIs, databases, 
 <code><img height="22" src="https://cdn.simpleicons.org/docker" alt="Docker"></code>
 <code><img height="22" src="https://cdn.simpleicons.org/rabbitmq" alt="RabbitMQ"></code>
 <code><img height="22" src="https://cdn.simpleicons.org/grafana" alt="Grafana"></code>
-<code><img height="22" src="https://cdn.simpleicons.org/microsoftazure" alt="Azure"></code>
+<code><img height="22" src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure"></code>
 
 ### Selected backend work
 
